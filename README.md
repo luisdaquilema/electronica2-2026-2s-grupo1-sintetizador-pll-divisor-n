@@ -5,7 +5,7 @@
 
 ## Integrantes
 - Luis Fernando Daquilema Yambay
-  
+- Juan José Vargas Núñez  
   
 
 
