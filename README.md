@@ -5,11 +5,11 @@
 
 ## Integrantes
 - Luis Fernando Daquilema Yambay
-- William Saúl Torres Wilcapi
-- Juan José Vargas Núñez
+  
+
 
 ## Objetivo
-Diseñar, simular e implementar un sintetizador de frecuencia basado en un lazo de seguimiento de fase (PLL) con divisor programable por N para generar señales de salida estables y seleccionables a partir de una referencia. Permite ajustar la frecuencia de síntesis de forma controlada mediante el factor de división N y verificar su enganche y espectro.
+
 
 ## Estructura del repositorio
 - `docs/`: Documentación técnica, cálculos del PLL y divisor por N, datasheets y reportes.
