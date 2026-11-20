@@ -1,20 +1,15 @@
-# Entornos virtuales y caché de Python
-__pycache__/
-*.py[cod]
-*$py.class
-venv/
-.venv/
-env/
+# Archivos temporales de simulación (Proteus / Multisim / LTspice)
+*.pdsbak
+*.DBK
+*.workspace
+*.ms14.bak
+*.raw
+*.log
+*.op.raw
 
 # Archivos de sistema y editores
 .DS_Store
 Thumbs.db
 .vscode/
 .idea/
-
-# Archivos pesados de datos crudos (mantener solo gráficas finales en results/)
-*.bin
-*.raw
-*.wav
-*.iq
-*.zip
+__pycache__/
