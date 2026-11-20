@@ -10,4 +10,4 @@
   * Juan José Vargas Núñez
 
 ## Objetivo del proyecto
-Desarrollar un enlace de modulación AM en lazo cerrado a 433 MHz utilizando el transceptor ADALM-Pluto y Python (`pyadi-iio`) mediante cable con atenuador. El sistema permite analizar en banda base las componentes I/Q, verificar el espectro mediante FFT y validar la demodulación por envolvente frente a una simulación sintética.
+Desarrollar un enlace de modulación AM en lazo cerrado a 433 MHz utilizando el transceptor ADALM-Pluto y Python mediante cable con atenuador. El sistema permite analizar en banda base las componentes I/Q, verificar el espectro mediante FFT y validar la demodulación por envolvente frente a una simulación sintética.
