@@ -1,5 +1,5 @@
 # electronica2-2026-2s-grupo8-sintetizador-pll-divisor-n
-# Electrónica II — Grupo 8
+# Electrónica II — Grupo 1
 
 **Proyecto asignado:** Proyecto Intermedio (APE) — Sintetizador de frecuencia con PLL y divisor programable por N
 
