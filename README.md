@@ -5,7 +5,7 @@
 * **Grupo:** Grupo 1
 * **Proyecto asignado:** Sintetizador de frecuencia con PLL (CD4046) y divisor programable por N (CD4017)
 * **Integrantes:**
-  * William Saúl Torres Wilcapi
+  * William Saúl Torres Wilcapi (@WilliamTorres844)
   * Luis Fernando Daquilema Yambay
   * Juan José Vargas Núñez
 
