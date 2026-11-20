@@ -2,7 +2,7 @@
 
 * **Asignatura:** Electrónica II (TEP220342) – Cuarto Semestre, Paralelo "A"
 * **Docente:** Mgs. Giovanny Cuzco
-* **Grupo:** Grupo [Número]
+* **Grupo:** Grupo 1
 * **Proyecto asignado:** Sintetizador de frecuencia con PLL (CD4046) y divisor programable por N (CD4017)
 * **Integrantes:**
   * William Saúl Torres Wilcapi
