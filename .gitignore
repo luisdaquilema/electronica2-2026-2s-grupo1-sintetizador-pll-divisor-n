@@ -1,15 +1,20 @@
-# Archivos temporales de simulación (Proteus / Multisim / LTspice)
-*.pdsbak
-*.DBK
-*.workspace
-*.ms14.bak
-*.raw
-*.log
-*.op.raw
+# Entornos virtuales y caché de Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
 
 # Archivos de sistema y editores
 .DS_Store
 Thumbs.db
 .vscode/
 .idea/
-__pycache__/
+
+# Archivos pesados de datos crudos (mantener solo gráficas finales en results/)
+*.bin
+*.raw
+*.wav
+*.iq
+*.zip
