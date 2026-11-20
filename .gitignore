@@ -1,5 +1,20 @@
+# Entornos virtuales y caché de Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+
+# Archivos de sistema y editores
 .DS_Store
 Thumbs.db
-*.tmp
-*.log
-*.bak
+.vscode/
+.idea/
+
+# Archivos pesados de datos crudos (mantener solo gráficas finales en results/)
+*.bin
+*.raw
+*.wav
+*.iq
+*.zip
